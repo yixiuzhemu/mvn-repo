@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 15:58:05 CST 2017
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514188681837
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514188683288
+http\://repo.spring.io/snapshot/.lastUpdated=1514188681830
+http\://repo.spring.io/snapshot/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514188683905
+http\://repo.spring.io/release/.lastUpdated=1514188681536
+http\://download.java.net/maven/2/.lastUpdated=1514188681243
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://oss.sonatype.org/content/repositories/sourceforge-releases/.error=Could not transfer artifact com.ly\:parent\:pom\:0.0.1-SNAPSHOT from/to sourceforge-releases (https\://oss.sonatype.org/content/repositories/sourceforge-releases/)\: Failed to transfer https\://oss.sonatype.org/content/repositories/sourceforge-releases/com/ly/parent/0.0.1-SNAPSHOT/parent-0.0.1-SNAPSHOT.pom. Error code 503, Service Unavailable
+@deault-http\://repo1.maven.org/maven2/.lastUpdated=1514188683907
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact com.ly\:parent\:pom\:0.0.1-SNAPSHOT from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven
+https\://repository.apache.org/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514188680131
+http\://repo.spring.io/release/.error=
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.ly\:parent\:pom\:0.0.1-SNAPSHOT from/to maven-repo1 (http\://repo1.maven.org/maven2/)\: No connector available to access repository maven-repo1 (http\://repo1.maven.org/maven2/) of type deault using the available factories AetherRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+@default-https\://oss.sonatype.org/content/repositories/sourceforge-releases/.lastUpdated=1514188685575

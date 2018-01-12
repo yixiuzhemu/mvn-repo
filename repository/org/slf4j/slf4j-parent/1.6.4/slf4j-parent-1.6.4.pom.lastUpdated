@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 14:56:39 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514184996470
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514184997858
+http\://repo.spring.io/snapshot/.lastUpdated=1514184997852
+http\://download.java.net/maven/2/.lastUpdated=1514184997258
+https\://repository.apache.org/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514184999947
+http\://repo.spring.io/snapshot/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514184999219
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repo.spring.io/release/.lastUpdated=1514184997564
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.6.4 from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven

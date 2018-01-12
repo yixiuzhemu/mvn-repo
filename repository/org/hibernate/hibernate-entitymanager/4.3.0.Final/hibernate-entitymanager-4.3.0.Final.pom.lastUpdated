@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 17:37:08 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514184888955
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514184890318
+http\://repo.spring.io/snapshot/.lastUpdated=1514184890312
+http\://download.java.net/maven/2/.lastUpdated=1514184889730
+https\://repository.apache.org/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514194628944
+http\://repo.spring.io/snapshot/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514184893950
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/release/.lastUpdated=1514184890023
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:pom\:4.3.0.Final from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Alibaba
+Implementation-Title: Dubbo
+Implementation-Version: 2.5.8
+Implementation-Vendor-Id: com.alibaba
+Built-By: ken.lj
+Build-Jdk: 1.6.0_32
+Specification-Vendor: Alibaba
+Specification-Title: Dubbo
+Created-By: Apache Maven 3.1.1
+Specification-Version: 2.5.8
+Archiver-Version: Plexus Archiver
+

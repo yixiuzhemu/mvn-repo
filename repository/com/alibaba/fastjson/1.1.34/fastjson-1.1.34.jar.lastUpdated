@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 15:44:27 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514187630712
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514187745453
+http\://repo.spring.io/snapshot/.lastUpdated=1514187743006
+http\://download.java.net/maven/2/.lastUpdated=1514187690845
+https\://repository.apache.org/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514187867043
+http\://repo.spring.io/snapshot/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514187819434
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repo.spring.io/release/.lastUpdated=1514187731679
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact com.alibaba\:fastjson\:jar\:1.1.34 from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven

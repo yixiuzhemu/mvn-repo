@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 11:59:18 CST 2017
+file\://D\:\\repository\\/.lastUpdated=1514433558284
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514433558322
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact commons-dbcp\:commons-dbcp\:pom\:${common.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 79\: https\://repository.apache.org/content/groups/public/commons-dbcp/commons-dbcp/${common.version}/commons-dbcp-${common.version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514433558339
+@default-http\://repo.spring.io/release/.lastUpdated=1514433558315
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact commons-dbcp\:commons-dbcp\:pom\:${common.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 58\: http\://repo.spring.io/snapshot/commons-dbcp/commons-dbcp/${common.version}/commons-dbcp-${common.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact commons-dbcp\:commons-dbcp\:pom\:${common.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 57\: http\://repo.spring.io/release/commons-dbcp/commons-dbcp/${common.version}/commons-dbcp-${common.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact commons-dbcp\:commons-dbcp\:pom\:${common.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 92\: https\://repository.jboss.org/nexus/content/repositories/releases/commons-dbcp/commons-dbcp/${common.version}/commons-dbcp-${common.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-dbcp\:commons-dbcp\:pom\:${common.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 63\: http\://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/${common.version}/commons-dbcp-${common.version}.pom
+file\://D\:\\repository\\/.error=
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514433558293
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514433558329

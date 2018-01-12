@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 14:58:36 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514185112945
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514185114948
+http\://repo.spring.io/snapshot/.lastUpdated=1514185114941
+http\://download.java.net/maven/2/.lastUpdated=1514185114361
+https\://repository.apache.org/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514185116993
+http\://repo.spring.io/snapshot/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514185116307
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repo.spring.io/release/.lastUpdated=1514185114648
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact joda-time\:joda-time\:pom\:2.3 from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven

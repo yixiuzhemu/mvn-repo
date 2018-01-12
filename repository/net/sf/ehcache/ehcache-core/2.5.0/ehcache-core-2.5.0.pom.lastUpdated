@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 14:57:07 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514185020658
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514185024783
+http\://repo.spring.io/snapshot/.lastUpdated=1514185022524
+http\://download.java.net/maven/2/.lastUpdated=1514185021983
+https\://repository.apache.org/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514185027054
+http\://repo.spring.io/snapshot/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514185026171
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repo.spring.io/release/.lastUpdated=1514185022232
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact net.sf.ehcache\:ehcache-core\:pom\:2.5.0 from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven

@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 15:27:20 CST 2017
+file\://D\:\\repository\\/.lastUpdated=1514446040475
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514340073457
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:pom\:${hibernate.core.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 91\: https\://repository.apache.org/content/groups/public/org/hibernate/hibernate-entitymanager/${hibernate.core.version}/hibernate-entitymanager-${hibernate.core.version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514340073570
+@default-http\://repo.spring.io/release/.lastUpdated=1514340073444
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:pom\:${hibernate.core.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 70\: http\://repo.spring.io/snapshot/org/hibernate/hibernate-entitymanager/${hibernate.core.version}/hibernate-entitymanager-${hibernate.core.version}.pom
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:pom\:${hibernate.core.version} from/to java-repo (http\://download.java.net/maven/2/)\: Illegal character in path at index 72\: http\://download.java.net/maven/2/org/hibernate/hibernate-entitymanager/${hibernate.core.version}/hibernate-entitymanager-${hibernate.core.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:pom\:${hibernate.core.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 69\: http\://repo.spring.io/release/org/hibernate/hibernate-entitymanager/${hibernate.core.version}/hibernate-entitymanager-${hibernate.core.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:pom\:${hibernate.core.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 104\: https\://repository.jboss.org/nexus/content/repositories/releases/org/hibernate/hibernate-entitymanager/${hibernate.core.version}/hibernate-entitymanager-${hibernate.core.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:pom\:${hibernate.core.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 75\: http\://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/${hibernate.core.version}/hibernate-entitymanager-${hibernate.core.version}.pom
+file\://D\:\\repository\\/.error=
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514340073472
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514340073425
+@default-http\://download.java.net/maven/2/.lastUpdated=1514340073433

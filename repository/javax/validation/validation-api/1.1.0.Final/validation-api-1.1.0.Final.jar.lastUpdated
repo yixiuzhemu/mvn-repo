@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 15:43:38 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514187629786
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514187745446
+http\://repo.spring.io/snapshot/.lastUpdated=1514187743002
+http\://download.java.net/maven/2/.lastUpdated=1514187690835
+https\://repository.apache.org/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514187818804
+http\://repo.spring.io/snapshot/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/release/.error=
+http\://repo.spring.io/release/.lastUpdated=1514187731662
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact javax.validation\:validation-api\:jar\:1.1.0.Final from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven

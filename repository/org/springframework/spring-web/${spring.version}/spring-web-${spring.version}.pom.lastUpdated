@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 11:53:53 CST 2017
+file\://D\:\\repository\\/.lastUpdated=1514433233822
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514433233846
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-web\:pom\:${spring.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 84\: https\://repository.apache.org/content/groups/public/org/springframework/spring-web/${spring.version}/spring-web-${spring.version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514433233862
+@default-http\://repo.spring.io/release/.lastUpdated=1514433233839
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework\:spring-web\:pom\:${spring.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 63\: http\://repo.spring.io/snapshot/org/springframework/spring-web/${spring.version}/spring-web-${spring.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework\:spring-web\:pom\:${spring.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 62\: http\://repo.spring.io/release/org/springframework/spring-web/${spring.version}/spring-web-${spring.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework\:spring-web\:pom\:${spring.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 97\: https\://repository.jboss.org/nexus/content/repositories/releases/org/springframework/spring-web/${spring.version}/spring-web-${spring.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-web\:pom\:${spring.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 68\: http\://repo.maven.apache.org/maven2/org/springframework/spring-web/${spring.version}/spring-web-${spring.version}.pom
+file\://D\:\\repository\\/.error=
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514433233831
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514433233853

@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 15:33:28 CST 2017
+file\://D\:\\repository\\/.lastUpdated=1514446408338
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514446408382
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact javax.persistence\:persistence-api\:pom\:${persistence.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 87\: https\://repository.apache.org/content/groups/public/javax/persistence/persistence-api/${persistence.version}/persistence-api-${persistence.version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514446408399
+@default-http\://repo.spring.io/release/.lastUpdated=1514446408364
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact javax.persistence\:persistence-api\:pom\:${persistence.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 66\: http\://repo.spring.io/snapshot/javax/persistence/persistence-api/${persistence.version}/persistence-api-${persistence.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact javax.persistence\:persistence-api\:pom\:${persistence.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 65\: http\://repo.spring.io/release/javax/persistence/persistence-api/${persistence.version}/persistence-api-${persistence.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact javax.persistence\:persistence-api\:pom\:${persistence.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 100\: https\://repository.jboss.org/nexus/content/repositories/releases/javax/persistence/persistence-api/${persistence.version}/persistence-api-${persistence.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.persistence\:persistence-api\:pom\:${persistence.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 71\: http\://repo.maven.apache.org/maven2/javax/persistence/persistence-api/${persistence.version}/persistence-api-${persistence.version}.pom
+file\://D\:\\repository\\/.error=
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514446408353
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514446408391

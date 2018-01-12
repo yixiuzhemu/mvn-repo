@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 17:37:10 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514184946549
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514184948645
+http\://repo.spring.io/snapshot/.lastUpdated=1514184948638
+http\://download.java.net/maven/2/.lastUpdated=1514184948055
+https\://repository.apache.org/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514194630620
+http\://repo.spring.io/snapshot/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514184951061
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/release/.lastUpdated=1514184948348
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact org.jboss.shrinkwrap.descriptors\:shrinkwrap-descriptors-bom\:pom\:2.0.0-alpha-3 from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven

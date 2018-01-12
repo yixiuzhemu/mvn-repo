@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 15:43:36 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514187629736
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514187745417
+http\://repo.spring.io/snapshot/.lastUpdated=1514187742989
+http\://download.java.net/maven/2/.lastUpdated=1514187690809
+https\://repository.apache.org/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514187816920
+http\://repo.spring.io/snapshot/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/release/.error=
+http\://repo.spring.io/release/.lastUpdated=1514187731587
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact org.jboss.spec.javax.transaction\:jboss-transaction-api_1.2_spec\:jar\:1.0.0.Final from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven

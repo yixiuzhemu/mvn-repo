@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 15:27:20 CST 2017
+file\://D\:\\repository\\/.lastUpdated=1514446040444
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514340073383
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact org.hibernate\:hibernate-core\:pom\:${hibernate.core.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 82\: https\://repository.apache.org/content/groups/public/org/hibernate/hibernate-core/${hibernate.core.version}/hibernate-core-${hibernate.core.version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514340073403
+@default-http\://repo.spring.io/release/.lastUpdated=1514340073374
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.hibernate\:hibernate-core\:pom\:${hibernate.core.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 61\: http\://repo.spring.io/snapshot/org/hibernate/hibernate-core/${hibernate.core.version}/hibernate-core-${hibernate.core.version}.pom
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.hibernate\:hibernate-core\:pom\:${hibernate.core.version} from/to java-repo (http\://download.java.net/maven/2/)\: Illegal character in path at index 63\: http\://download.java.net/maven/2/org/hibernate/hibernate-core/${hibernate.core.version}/hibernate-core-${hibernate.core.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact org.hibernate\:hibernate-core\:pom\:${hibernate.core.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 60\: http\://repo.spring.io/release/org/hibernate/hibernate-core/${hibernate.core.version}/hibernate-core-${hibernate.core.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.hibernate\:hibernate-core\:pom\:${hibernate.core.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 95\: https\://repository.jboss.org/nexus/content/repositories/releases/org/hibernate/hibernate-core/${hibernate.core.version}/hibernate-core-${hibernate.core.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-core\:pom\:${hibernate.core.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 66\: http\://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/${hibernate.core.version}/hibernate-core-${hibernate.core.version}.pom
+file\://D\:\\repository\\/.error=
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514340073392
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514340073330
+@default-http\://download.java.net/maven/2/.lastUpdated=1514340073342

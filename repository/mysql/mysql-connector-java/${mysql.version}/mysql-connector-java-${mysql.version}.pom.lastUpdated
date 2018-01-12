@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 11:02:05 CST 2017
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514343725368
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:${mysql.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 80\: https\://repository.apache.org/content/groups/public/mysql/mysql-connector-java/${mysql.version}/mysql-connector-java-${mysql.version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514343725417
+@default-http\://repo.spring.io/release/.lastUpdated=1514343725353
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:${mysql.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 59\: http\://repo.spring.io/snapshot/mysql/mysql-connector-java/${mysql.version}/mysql-connector-java-${mysql.version}.pom
+http\://download.java.net/maven/2/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:${mysql.version} from/to java-repo (http\://download.java.net/maven/2/)\: Illegal character in path at index 61\: http\://download.java.net/maven/2/mysql/mysql-connector-java/${mysql.version}/mysql-connector-java-${mysql.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:${mysql.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 58\: http\://repo.spring.io/release/mysql/mysql-connector-java/${mysql.version}/mysql-connector-java-${mysql.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:${mysql.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 93\: https\://repository.jboss.org/nexus/content/repositories/releases/mysql/mysql-connector-java/${mysql.version}/mysql-connector-java-${mysql.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:${mysql.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 64\: http\://repo.maven.apache.org/maven2/mysql/mysql-connector-java/${mysql.version}/mysql-connector-java-${mysql.version}.pom
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514343725329
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514343725379
+@default-http\://download.java.net/maven/2/.lastUpdated=1514343725340

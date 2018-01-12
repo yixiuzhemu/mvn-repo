@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 14:48:20 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514184493809
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514184498021
+http\://repo.spring.io/snapshot/.lastUpdated=1514184495761
+http\://download.java.net/maven/2/.lastUpdated=1514184495178
+https\://repository.apache.org/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514184500236
+http\://repo.spring.io/snapshot/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514184499390
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repo.spring.io/release/.lastUpdated=1514184495471
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact com.google.guava\:guava\:pom\:15.0 from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: maven

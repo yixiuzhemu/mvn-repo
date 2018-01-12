@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 14:47:46 CST 2017
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514184466929
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514184466958
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514184466937
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.ow2.asm\:asm\:pom\:${asm.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 48\: http\://repo.spring.io/snapshot/org/ow2/asm/asm/${asm.version}/asm-${asm.version}.pom
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514184466828
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514184466949
+@default-http\://download.java.net/maven/2/.lastUpdated=1514184466844
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.ow2.asm\:asm\:pom\:${asm.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 53\: http\://repo.maven.apache.org/maven2/org/ow2/asm/asm/${asm.version}/asm-${asm.version}.pom
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.ow2.asm\:asm\:pom\:${asm.version} from/to java-repo (http\://download.java.net/maven/2/)\: Illegal character in path at index 50\: http\://download.java.net/maven/2/org/ow2/asm/asm/${asm.version}/asm-${asm.version}.pom
+https\://oss.sonatype.org/content/repositories/sourceforge-releases/.error=Could not transfer artifact org.ow2.asm\:asm\:pom\:${asm.version} from/to sourceforge-releases (https\://oss.sonatype.org/content/repositories/sourceforge-releases/)\: Illegal character in path at index 84\: https\://oss.sonatype.org/content/repositories/sourceforge-releases/org/ow2/asm/asm/${asm.version}/asm-${asm.version}.pom
+@deault-http\://repo1.maven.org/maven2/.lastUpdated=1514184466961
+@default-http\://repo.spring.io/release/.lastUpdated=1514184466918
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact org.ow2.asm\:asm\:pom\:${asm.version} from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: Illegal character in path at index 63\: http\://maven/doudhopper.com/repos/third-party/org/ow2/asm/asm/${asm.version}/asm-${asm.version}.pom
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact org.ow2.asm\:asm\:pom\:${asm.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 69\: https\://repository.apache.org/content/groups/public/org/ow2/asm/asm/${asm.version}/asm-${asm.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.ow2.asm\:asm\:pom\:${asm.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 82\: https\://repository.jboss.org/nexus/content/repositories/releases/org/ow2/asm/asm/${asm.version}/asm-${asm.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact org.ow2.asm\:asm\:pom\:${asm.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 47\: http\://repo.spring.io/release/org/ow2/asm/asm/${asm.version}/asm-${asm.version}.pom
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.ow2.asm\:asm\:pom\:${asm.version} from/to maven-repo1 (http\://repo1.maven.org/maven2/)\: No connector available to access repository maven-repo1 (http\://repo1.maven.org/maven2/) of type deault using the available factories AetherRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+@default-https\://oss.sonatype.org/content/repositories/sourceforge-releases/.lastUpdated=1514184466970

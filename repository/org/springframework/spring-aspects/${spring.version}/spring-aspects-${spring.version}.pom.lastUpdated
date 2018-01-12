@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 11:53:54 CST 2017
+file\://D\:\\repository\\/.lastUpdated=1514433234205
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514433234232
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-aspects\:pom\:${spring.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 88\: https\://repository.apache.org/content/groups/public/org/springframework/spring-aspects/${spring.version}/spring-aspects-${spring.version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514433234247
+@default-http\://repo.spring.io/release/.lastUpdated=1514433234223
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework\:spring-aspects\:pom\:${spring.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 67\: http\://repo.spring.io/snapshot/org/springframework/spring-aspects/${spring.version}/spring-aspects-${spring.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework\:spring-aspects\:pom\:${spring.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 66\: http\://repo.spring.io/release/org/springframework/spring-aspects/${spring.version}/spring-aspects-${spring.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework\:spring-aspects\:pom\:${spring.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 101\: https\://repository.jboss.org/nexus/content/repositories/releases/org/springframework/spring-aspects/${spring.version}/spring-aspects-${spring.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-aspects\:pom\:${spring.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 72\: http\://repo.maven.apache.org/maven2/org/springframework/spring-aspects/${spring.version}/spring-aspects-${spring.version}.pom
+file\://D\:\\repository\\/.error=
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514433234215
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514433234239

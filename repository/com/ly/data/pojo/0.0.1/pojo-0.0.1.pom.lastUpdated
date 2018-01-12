@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 15:25:56 CST 2017
+https\://repository.apache.org/content/groups/public/.lastUpdated=1514359552715
+http\://repo.spring.io/snapshot/.lastUpdated=1514359554372
+http\://download.java.net/maven/2/.lastUpdated=1514359553753
+https\://repository.apache.org/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514359556538
+http\://repo.spring.io/snapshot/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514359555911
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/release/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo.spring.io/release/.lastUpdated=1514359554063

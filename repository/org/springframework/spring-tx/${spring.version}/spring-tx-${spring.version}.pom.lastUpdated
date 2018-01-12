@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 11:53:54 CST 2017
+file\://D\:\\repository\\/.lastUpdated=1514433234144
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514433234169
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:${spring.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 83\: https\://repository.apache.org/content/groups/public/org/springframework/spring-tx/${spring.version}/spring-tx-${spring.version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514433234185
+@default-http\://repo.spring.io/release/.lastUpdated=1514433234161
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:${spring.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 62\: http\://repo.spring.io/snapshot/org/springframework/spring-tx/${spring.version}/spring-tx-${spring.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:${spring.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 61\: http\://repo.spring.io/release/org/springframework/spring-tx/${spring.version}/spring-tx-${spring.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:${spring.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 96\: https\://repository.jboss.org/nexus/content/repositories/releases/org/springframework/spring-tx/${spring.version}/spring-tx-${spring.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:${spring.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 67\: http\://repo.maven.apache.org/maven2/org/springframework/spring-tx/${spring.version}/spring-tx-${spring.version}.pom
+file\://D\:\\repository\\/.error=
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514433234153
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514433234176

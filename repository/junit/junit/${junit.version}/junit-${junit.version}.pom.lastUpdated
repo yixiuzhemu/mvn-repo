@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 14:46:00 CST 2017
+@default-http\://repo.spring.io/snapshot/.lastUpdated=1514184360478
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1514184360507
+@default-http\://maven/doudhopper.com/repos/third-party/.lastUpdated=1514184360487
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact junit\:junit\:pom\:${junit.version} from/to springsource-repo-snapshot (http\://repo.spring.io/snapshot/)\: Illegal character in path at index 44\: http\://repo.spring.io/snapshot/junit/junit/${junit.version}/junit-${junit.version}.pom
+@default-https\://repository.apache.org/content/groups/public/.lastUpdated=1514184360413
+@default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1514184360496
+@default-http\://download.java.net/maven/2/.lastUpdated=1514184360423
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact junit\:junit\:pom\:${junit.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 49\: http\://repo.maven.apache.org/maven2/junit/junit/${junit.version}/junit-${junit.version}.pom
+http\://download.java.net/maven/2/.error=Could not transfer artifact junit\:junit\:pom\:${junit.version} from/to java-repo (http\://download.java.net/maven/2/)\: Illegal character in path at index 46\: http\://download.java.net/maven/2/junit/junit/${junit.version}/junit-${junit.version}.pom
+https\://oss.sonatype.org/content/repositories/sourceforge-releases/.error=Could not transfer artifact junit\:junit\:pom\:${junit.version} from/to sourceforge-releases (https\://oss.sonatype.org/content/repositories/sourceforge-releases/)\: Illegal character in path at index 80\: https\://oss.sonatype.org/content/repositories/sourceforge-releases/junit/junit/${junit.version}/junit-${junit.version}.pom
+@deault-http\://repo1.maven.org/maven2/.lastUpdated=1514184360650
+@default-http\://repo.spring.io/release/.lastUpdated=1514184360470
+http\://maven/doudhopper.com/repos/third-party/.error=Could not transfer artifact junit\:junit\:pom\:${junit.version} from/to doudhopper (http\://maven/doudhopper.com/repos/third-party/)\: Illegal character in path at index 59\: http\://maven/doudhopper.com/repos/third-party/junit/junit/${junit.version}/junit-${junit.version}.pom
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact junit\:junit\:pom\:${junit.version} from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: Illegal character in path at index 65\: https\://repository.apache.org/content/groups/public/junit/junit/${junit.version}/junit-${junit.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact junit\:junit\:pom\:${junit.version} from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: Illegal character in path at index 78\: https\://repository.jboss.org/nexus/content/repositories/releases/junit/junit/${junit.version}/junit-${junit.version}.pom
+http\://repo.spring.io/release/.error=Could not transfer artifact junit\:junit\:pom\:${junit.version} from/to springsource-repo (http\://repo.spring.io/release/)\: Illegal character in path at index 43\: http\://repo.spring.io/release/junit/junit/${junit.version}/junit-${junit.version}.pom
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact junit\:junit\:pom\:${junit.version} from/to maven-repo1 (http\://repo1.maven.org/maven2/)\: No connector available to access repository maven-repo1 (http\://repo1.maven.org/maven2/) of type deault using the available factories AetherRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+@default-https\://oss.sonatype.org/content/repositories/sourceforge-releases/.lastUpdated=1514184360658
